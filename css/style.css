@@ -418,7 +418,7 @@ table {
     margin-bottom: 18px; /*Отступ снизу от таблицы*/
     padding: 2; /*Отступы внутри таблицы*/
     font-size: 14px; /*Размер шрифта*/
-    border: 1px solid #dddddd; /*Граница таблицы*/
+    border: 0px solid #dddddd; /*Граница таблицы*/
     border-spacing: 0; /*Отступы между границами ячеек*/
     border-collapse: separate; /*Границы ячеек не склеиваются*/
 	-webkit-border-radius: 5px; /*Радиус скругления углов у таблицы Safari, Chrome*/
@@ -447,7 +447,7 @@ table td {
 }
 
 table th+th,table td+td,table th+td {
-    border-left: 1px solid #ddd; /*Стиль для левой границы между двумя ячейками*/
+    border-left: 0px solid #ddd; /*Стиль для левой границы между двумя ячейками*/
 }
 
 table thead tr:first-child th:first-child, /*Первая строка первая ячейка в заголовке таблицы*/
