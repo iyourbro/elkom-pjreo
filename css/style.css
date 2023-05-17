@@ -422,7 +422,7 @@ table {
     margin: auto;
     margin-bottom: 18px; /*Отступ снизу от таблицы*/
     padding: 2; /*Отступы внутри таблицы*/
-    font-size: 13px; /*Размер шрифта*/
+    font-size: 14px; /*Размер шрифта*/
     border: 1px solid #dddddd; /*Граница таблицы*/
     border-spacing: 0; /*Отступы между границами ячеек*/
     border-collapse: separate; /*Границы ячеек не склеиваются*/
